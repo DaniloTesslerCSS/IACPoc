@@ -1,0 +1,8 @@
+{
+  "Account" : "148365541082",
+  "EnvironmentType" : "prod",
+  "EnvironmentName" : "",
+  "VpcId" : "vpc-024dee7223c11007f",
+  "SubnetIds" : "subnet-0620c061e9277aac7",
+  "Region" : "ca-central-1"
+}

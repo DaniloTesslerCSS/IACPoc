@@ -1,0 +1,11 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+Now is: @DateTime.Now
+<br/>
+This is <b>@Model.Environment</b> environment
+<br/>
+Weather at Danilo's house is: @Model.Weather
