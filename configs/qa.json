@@ -1,8 +1,8 @@
 {
-  "Account" : "148365541082",
-  "EnvironmentType" : "qa",
-  "EnvironmentName" : "",
-  "VpcId" : "vpc-024dee7223c11007f",
-  "SubnetIds" : "subnet-0620c061e9277aac7",
-  "Region" : "ca-central-1"
+    "VAR2" :
+    {
+        "VAR1" : "VALUE_FOR_VAR2_VALUE1_QA",
+        "VAR2" : "VALUE_FOR_VAR2_VALUE2_QA"
+    },
+    "VAR3" : "VALUE_FOR_VAR3_QA"   
 }

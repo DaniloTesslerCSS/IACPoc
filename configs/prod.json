@@ -1,8 +1,9 @@
 {
-  "Account" : "148365541082",
-  "EnvironmentType" : "prod",
-  "EnvironmentName" : "",
-  "VpcId" : "vpc-024dee7223c11007f",
-  "SubnetIds" : "subnet-0620c061e9277aac7",
-  "Region" : "ca-central-1"
+    "VAR2" :
+    {
+        "VAR1" : "VALUE_FOR_VAR2_VALUE1_DEV",
+        "VAR2" : "VALUE_FOR_VAR2_VALUE2_DEV"
+    },
+    "VAR3" : "DEV_VALUE_FOR_VAR3_DEV",
+    "VAR4" : "THIS_IS_VALID_IN_PROD_ONLY"       
 }
