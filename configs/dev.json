@@ -1,8 +1,6 @@
 {
     "VAR2" :
     {
-        "VAR1" : "VALUE_FOR_VAR2_VALUE1_DEV",
-        "VAR2" : "VALUE_FOR_VAR2_VALUE2_DEV"
-    },
-    "VAR3" : "DEV_VALUE_FOR_VAR3_DEV"   
+        "VAR1" : "VALUE_FOR_VAR2_VALUE1_DEV"
+    }
 }
