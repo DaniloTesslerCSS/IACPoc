@@ -1,5 +1,8 @@
 {
     "VAR1" : "VALUE_FOR_VAR1",
     "VAR3" : "GLOBAL_VALUE_FOR_VAR3",
-    "VAR4" : "VALID_IN_ALL_LOWER_ENVIRONMENTS"    
+    "VAR4" : "VALID_IN_ALL_LOWER_ENVIRONMENTS",
+    "BOOLEAN" : true,
+    "NUMBER" : 12345,
+    "LIST" : [1, 2, 3, 4, 5]
 }
